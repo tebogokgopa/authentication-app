@@ -1,0 +1,11 @@
+/home/tebogo/Documents/RUST/authentication-app/target/debug/deps/socket2-d4e8bcdbabbf67db.rmeta: /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs
+
+/home/tebogo/Documents/RUST/authentication-app/target/debug/deps/libsocket2-d4e8bcdbabbf67db.rlib: /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs
+
+/home/tebogo/Documents/RUST/authentication-app/target/debug/deps/socket2-d4e8bcdbabbf67db.d: /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs
+
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs:

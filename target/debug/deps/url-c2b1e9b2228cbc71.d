@@ -1,0 +1,13 @@
+/home/tebogo/Documents/RUST/authentication-app/target/debug/deps/url-c2b1e9b2228cbc71.rmeta: /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/lib.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/host.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/origin.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/parser.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/path_segments.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/slicing.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/quirks.rs
+
+/home/tebogo/Documents/RUST/authentication-app/target/debug/deps/liburl-c2b1e9b2228cbc71.rlib: /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/lib.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/host.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/origin.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/parser.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/path_segments.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/slicing.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/quirks.rs
+
+/home/tebogo/Documents/RUST/authentication-app/target/debug/deps/url-c2b1e9b2228cbc71.d: /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/lib.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/host.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/origin.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/parser.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/path_segments.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/slicing.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/quirks.rs
+
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/lib.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/host.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/origin.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/parser.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/path_segments.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/slicing.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.1/src/quirks.rs:

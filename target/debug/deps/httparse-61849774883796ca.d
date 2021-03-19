@@ -1,0 +1,12 @@
+/home/tebogo/Documents/RUST/authentication-app/target/debug/deps/httparse-61849774883796ca.rmeta: /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/lib.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/iter.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/macros.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/mod.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/sse42.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/avx2.rs
+
+/home/tebogo/Documents/RUST/authentication-app/target/debug/deps/libhttparse-61849774883796ca.rlib: /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/lib.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/iter.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/macros.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/mod.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/sse42.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/avx2.rs
+
+/home/tebogo/Documents/RUST/authentication-app/target/debug/deps/httparse-61849774883796ca.d: /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/lib.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/iter.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/macros.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/mod.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/sse42.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/avx2.rs
+
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/lib.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/iter.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/macros.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/mod.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/sse42.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.5/src/simd/avx2.rs:

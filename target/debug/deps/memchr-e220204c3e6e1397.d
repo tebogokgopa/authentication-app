@@ -1,0 +1,13 @@
+/home/tebogo/Documents/RUST/authentication-app/target/debug/deps/memchr-e220204c3e6e1397.rmeta: /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/lib.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/fallback.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/iter.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/naive.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/mod.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/avx.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/sse2.rs
+
+/home/tebogo/Documents/RUST/authentication-app/target/debug/deps/libmemchr-e220204c3e6e1397.rlib: /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/lib.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/fallback.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/iter.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/naive.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/mod.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/avx.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/sse2.rs
+
+/home/tebogo/Documents/RUST/authentication-app/target/debug/deps/memchr-e220204c3e6e1397.d: /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/lib.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/fallback.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/iter.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/naive.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/mod.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/avx.rs /home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/sse2.rs
+
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/lib.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/fallback.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/iter.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/naive.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/mod.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/avx.rs:
+/home/tebogo/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/src/x86/sse2.rs:
